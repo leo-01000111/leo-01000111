@@ -17,6 +17,16 @@
 
 ---
 
+## 🌐 Professional Links
+
+<p align="center">
+  <a href="https://github.com/leo-01000111">GitHub</a> •
+  <a href="https://leongorecki.eu">Portfolio</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
+---
+
 ## 🛠️ Technical Stack
 
 ### Programming & Tools
@@ -67,27 +77,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leo-01000111&style=flat-square"/>
 </p>
-
----
-
-## 🌐 Professional Links
-
-<p align="center">
-  <a href="https://github.com/leo-01000111">GitHub</a> •
-  <a href="https://leongorecki.eu">Portfolio</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
-
----
-
-## 📌 Featured Work
-
-> Selected repositories demonstrating applied engineering, simulation, and control systems.
-
-- Reinforcement Learning vs RMPC for mobile robot navigation  
-- Simulation environments for autonomous systems  
-- Engineering automation tools (Python-based workflows)  
-- Aircraft and mechanical design projects  
 
 ---
 
