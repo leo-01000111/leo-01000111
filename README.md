@@ -21,10 +21,10 @@
 
 ### Programming & Tools
 ![Python](https://img.shields.io/badge/Python-Advanced-informational?style=for-the-badge&logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-Working-informational?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-informational?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-Working-informational?style=for-the-badge&logo=c%2B%2B)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Advanced-informational?style=for-the-badge&logo=latex)
-![Git](https://img.shields.io/badge/Git-Professional-informational?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-Working-informational?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-informational?style=for-the-badge&logo=github)
 
 ### Machine Learning & Control
