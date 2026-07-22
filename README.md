@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/leo-01000111"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leongorecki.eu"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/leon-g%C3%B3recki-10a823352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=leo-01000111&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views">
 </p>
 
@@ -22,18 +22,20 @@
 
 ```yaml
 leon@github ~ % neofetch
---------------------------------------------------
-  Role .............. Aerospace & Mechanical Engineer
-  Focus ............. Autonomous Systems · Control · RL
-  Currently ......... Reinforcement Learning vs Robust MPC
-  Languages.Prog .... Python, MATLAB, C++
-  Languages.Markup .. LaTeX
-  ML / Control ...... PyTorch, TensorFlow, Gymnasium, do-mpc
-  Engineering ....... Siemens NX, AutoCAD, ANSYS
-  Interests ......... GNSS-denied navigation, LiDAR/IMU perception
-  Open to ........... International roles — France / EU
-  Contact ........... leongorecki.eu
---------------------------------------------------
+--------------------------------------------------------------
+  Host ............. Miltom sp. z o.o.
+  Role ............. Software Developer & CAD Designer
+  Base ............. Warsaw, PL  ->  Nantes, FR (Sep 2026)
+  Education ........ BEng Aerospace — Warsaw Tech (PW)
+  Next ............. MSc Control & Robotics — Centrale Nantes '26-'28
+  Focus ............ ML for navigation · aircraft design · data science
+  Languages.Prog ... Python, C++, MATLAB / Simulink
+  Languages.ML ..... PyTorch, scikit-learn, XGBoost, pandas / NumPy
+  Backend .......... FastAPI, PostgreSQL, Docker, GitHub Actions
+  CAD .............. Siemens NX, AutoCAD, Blender
+  Languages.Real ... Polish (native), English, French, German
+  Contact .......... leon.gorecki.fr@proton.me
+--------------------------------------------------------------
 ```
 
 ---
