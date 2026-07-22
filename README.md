@@ -1,12 +1,12 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Leon+G%C3%B3recki+%F0%9F%91%8B;Aerospace+%26+Mechanical+Engineer;Control+Systems+%E2%80%A2+Robotics+%E2%80%A2+Python">
-    <img alt="Leon Górecki" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Leon+G%C3%B3recki+%F0%9F%91%8B;Aerospace+%26+Mechanical+Engineer;Control+Systems+%E2%80%A2+Robotics+%E2%80%A2+Python">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Leon+G%C3%B3recki;Aerospace+%26+Mechanical+Engineer;Control+Systems+%E2%80%A2+Robotics+%E2%80%A2+Python">
+    <img alt="Leon Górecki" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=650&height=45&lines=Hi%2C+I'm+Leon+G%C3%B3recki;Aerospace+%26+Mechanical+Engineer;Control+Systems+%E2%80%A2+Robotics+%E2%80%A2+Python">
   </picture>
 </h1>
 
 <p align="center">
-  Engineering intelligent systems at the intersection of control theory, simulation, and real-world design.
+  at the intersection of aerospace, robotics and software
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧑‍🚀 Details
+### Details
 
 ```yaml
 leon@github ~ % neofetch
@@ -38,45 +38,7 @@ leon@github ~ % neofetch
 
 ---
 
-### 🛠️ Tech Stack
-
-**Programming & Tooling**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Machine Learning & Control**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openai&logoColor=white)
-![do-mpc](https://img.shields.io/badge/do--mpc-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-3860BE?style=for-the-badge&logo=optuna&logoColor=white)
-
-**Engineering & CAD**
-
-![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![GstarCAD](https://img.shields.io/badge/GstarCAD-444444?style=for-the-badge&logo=autodesk&logoColor=white)
-
----
-
-### 🔬 Key Engineering Areas
-
-- Autonomous navigation in GNSS-denied environments
-- Reinforcement learning vs robust model predictive control (Tube-RMPC)
-- Sensor-based perception (LiDAR, IMU, odometry)
-- Simulation environments and benchmarking
-- Aircraft conceptual and structural design
-- Mechanical design and technical documentation
-
----
-
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <picture>
@@ -98,7 +60,7 @@ leon@github ~ % neofetch
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
