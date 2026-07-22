@@ -52,8 +52,8 @@ leon@github ~ % neofetch
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=leo-01000111&show_icons=true&hide_border=true&title_color=0969DA&icon_color=0969DA" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-01000111&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-01000111&layout=compact&hide_border=true&title_color=0969DA" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-01000111&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=github_dark&title_color=58A6FF">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-01000111&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=0969DA" alt="Top Languages">
   </picture>
 </p>
 
