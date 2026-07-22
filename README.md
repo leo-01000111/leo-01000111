@@ -23,7 +23,6 @@
 ```yaml
 leon@github ~ % neofetch
 --------------------------------------------------------------
-  Host ............. Miltom sp. z o.o.
   Role ............. Software Developer & CAD Designer
   Base ............. Warsaw, PL  ->  Nantes, FR (Sep 2026)
   Education ........ BEng Aerospace — Warsaw Tech (PW)
@@ -34,9 +33,14 @@ leon@github ~ % neofetch
   Backend .......... FastAPI, PostgreSQL, Docker, GitHub Actions
   CAD .............. Siemens NX, AutoCAD, Blender
   Languages.Real ... Polish (native), English, French, German
+  Website .......... leongorecki.eu
   Contact .......... leon.gorecki.fr@proton.me
 --------------------------------------------------------------
 ```
+
+<p align="center">
+  <a href="https://leongorecki.eu"><b>&rsaquo; leongorecki.eu</b></a>
+</p>
 
 ---
 
