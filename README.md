@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  at the intersection of aerospace, robotics and software
+  Engineering intelligent systems at the intersection of aerospace, robotics and software
 </p>
 
 <p align="center">
