@@ -5,9 +5,6 @@
   </picture>
 </h1>
 
-<p align="center">
-  Engineering intelligent systems at the intersection of aerospace, robotics and software
-</p>
 
 <p align="center">
   <a href="https://github.com/leo-01000111"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
